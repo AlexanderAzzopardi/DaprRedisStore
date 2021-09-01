@@ -3,7 +3,7 @@ content-type: application/json
 
 {
     "Key": "1",
-    "Data":  "value1a"
+    "Data":  ["value1a"]
 }
 
 ###
