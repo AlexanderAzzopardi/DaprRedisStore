@@ -2,8 +2,17 @@ GET http://localhost:5010/v1.0/invoke/storage/method/add HTTP/1.1
 content-type: application/json
 
 {
-    "Data": "Alex",
-    "Key": "1"
+    "Key": "1",
+    "Data":  "value1a"
+}
+
+###
+GET http://localhost:5010/v1.0/invoke/storage/method/add HTTP/1.1
+content-type: application/json
+
+{
+    "Key": "1",
+    "Data":  ["value1a","value1b"]
 }
 
 ###
