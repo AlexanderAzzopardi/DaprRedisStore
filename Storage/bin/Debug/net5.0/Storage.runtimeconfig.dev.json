@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\AlexA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AlexA\\.nuget\\packages"
+    ]
+  }
+}
